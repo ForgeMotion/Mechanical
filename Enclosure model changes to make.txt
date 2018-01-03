@@ -1,0 +1,28 @@
+model changes to make
+x	draft analysis
+
+x	merge halves
+x	split body along sides
+x	internal clip at bottom inside - top latches on, gets screwed closed with screws
+x	female groove for sliding onto vest
+x	screw posts for closing
+
+x	extend usb slot all the way through
+
+x	piece to hold the pcb in
+
+	Finishing touches:
+x		slot to route ffc cable - comes from top left
+
+x		power button raised into bottom half
+x		rgb led light channel with walls that lead to top
+
+x		volume buttons slotted into bottom half
+
+x		motor clip/support/alignment
+x		logo on front
+	
+
+	model the vest plate
+	model the other motor holders
+	model the motor and speaker holders
